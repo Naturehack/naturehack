@@ -1,6 +1,11 @@
 # naturehack
 @naturehack Authority Physics
 
+>I thought of objects being like biological cells and/or individual computers on a network, only able to communicate with messages. ~Alan Kay
+
+![Alt text](/img/alanWhat.png)
+
+
 I'm a System Designer. I work with people who scare me in a good way so I can get out of the way. 
 
 Welcome to the naturehack. one cell daddy, one cell mommy, two into one made you. uni to multi, move your finger and model the internet. 
